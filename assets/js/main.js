@@ -437,7 +437,7 @@
 		   dataType: 'json',
 	       contentType: 'application/json',
 		   data: JSON.stringify('{ "name": "' + $("#name").val() + '"}'), 
-		   url: 'http://txitxo0ha.duckdns.org:8123/api/webhook/wedding-assistance'
+		   url: 'https://jdeluisserrano.duckdns.org:8123/api/webhook/wedding-assistance'
 		});
 	
 	    form.send.value = "Enviado";
